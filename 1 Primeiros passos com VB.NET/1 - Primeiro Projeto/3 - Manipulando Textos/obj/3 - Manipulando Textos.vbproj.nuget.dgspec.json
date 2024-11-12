@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj": {}
+    "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Alura\\1 Primeiros passos com VB.NET\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj": {
+    "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Alura\\1 Primeiros passos com VB.NET\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj",
+        "projectUniqueName": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Alura\\1 Primeiros passos com VB.NET\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj",
         "projectName": "3 - Manipulando Textos",
-        "projectPath": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj",
+        "projectPath": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Alura\\1 Primeiros passos com VB.NET\\1 - Primeiro Projeto\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj",
         "packagesPath": "C:\\Users\\IMP-TI-04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\3 - Manipulando Textos\\obj\\",
+        "outputPath": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Alura\\1 Primeiros passos com VB.NET\\1 - Primeiro Projeto\\3 - Manipulando Textos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

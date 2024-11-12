@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("3 - Manipulando Textos"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6769f0bfcbc577d245c94a2cb36162f052d0986"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("3 - Manipulando Textos"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("3 - Manipulando Textos"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
