@@ -30,6 +30,8 @@ Partial Class Frm_TelaPrincipal_03
         Txt_Curso = New TextBox()
         Btm_Adicionar = New Button()
         Txt_Lista = New TextBox()
+        Btm_MostraLista = New Button()
+        Btm_GuardarVariaveis = New Button()
         SuspendLayout()
         ' 
         ' Btm_Principal
@@ -84,7 +86,7 @@ Partial Class Frm_TelaPrincipal_03
         ' 
         ' Btm_Adicionar
         ' 
-        Btm_Adicionar.Location = New Point(235, 196)
+        Btm_Adicionar.Location = New Point(235, 197)
         Btm_Adicionar.Name = "Btm_Adicionar"
         Btm_Adicionar.Size = New Size(217, 23)
         Btm_Adicionar.TabIndex = 6
@@ -100,11 +102,31 @@ Partial Class Frm_TelaPrincipal_03
         Txt_Lista.Size = New Size(191, 178)
         Txt_Lista.TabIndex = 7
         ' 
+        ' Btm_MostraLista
+        ' 
+        Btm_MostraLista.Location = New Point(235, 226)
+        Btm_MostraLista.Name = "Btm_MostraLista"
+        Btm_MostraLista.Size = New Size(217, 23)
+        Btm_MostraLista.TabIndex = 8
+        Btm_MostraLista.Text = "Button1"
+        Btm_MostraLista.UseVisualStyleBackColor = True
+        ' 
+        ' Btm_GuardarVariaveis
+        ' 
+        Btm_GuardarVariaveis.Location = New Point(235, 255)
+        Btm_GuardarVariaveis.Name = "Btm_GuardarVariaveis"
+        Btm_GuardarVariaveis.Size = New Size(217, 23)
+        Btm_GuardarVariaveis.TabIndex = 9
+        Btm_GuardarVariaveis.Text = "Button1"
+        Btm_GuardarVariaveis.UseVisualStyleBackColor = True
+        ' 
         ' Frm_TelaPrincipal_03
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(559, 416)
+        Controls.Add(Btm_GuardarVariaveis)
+        Controls.Add(Btm_MostraLista)
         Controls.Add(Txt_Lista)
         Controls.Add(Btm_Adicionar)
         Controls.Add(Txt_Curso)
@@ -128,5 +150,7 @@ Partial Class Frm_TelaPrincipal_03
     Friend WithEvents Txt_Curso As TextBox
     Friend WithEvents Btm_Adicionar As Button
     Friend WithEvents Txt_Lista As TextBox
+    Friend WithEvents Btm_MostraLista As Button
+    Friend WithEvents Btm_GuardarVariaveis As Button
 
 End Class

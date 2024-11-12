@@ -13,6 +13,8 @@
         Btm_Char.Text = "Clique para obter o char"
         Lbl_Curso.Text = "Digite o seu curso preferido"
         Btm_Adicionar.Text = "Adicione a sua lista"
+        Btm_MostraLista.Text = "Mostra a lista atual"
+        Btm_GuardarVariaveis.Text = "Clique aqui"
     End Sub
 
     Private Sub Btm_Principal_Click(sender As Object, e As EventArgs) Handles Btm_Principal.Click
@@ -42,5 +44,22 @@
         Dim CursoDigitado As String = Txt_Curso.Text
         ListaCurso = ListaCurso + CursoDigitado + vbCrLf
         Txt_Lista.Text = ListaCurso
+    End Sub
+
+    Private Sub Btm_MostraLista_Click(sender As Object, e As EventArgs) Handles Btm_MostraLista.Click
+        MsgBox(ListaCurso)
+    End Sub
+
+    Private Sub Btm_GuardarVariaveis_Click(sender As Object, e As EventArgs) Handles Btm_GuardarVariaveis.Click
+        Dim idade As Integer = 32
+        Dim idadeGustavo As Integer
+
+        idadeGustavo = idade
+
+        MsgBox("Idade é igual a " + idade.ToString + " enquanto a idadeGustavo é " + idadeGustavo.ToString)
+
+        idade = 20
+
+        MsgBox("Idade é igual a " + idade.ToString + " enquanto a idadeGustavo é " + idadeGustavo.ToString)
     End Sub
 End Class
