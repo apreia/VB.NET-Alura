@@ -1,4 +1,3 @@
-C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\_3___Manipulando_Textos.Frm_TelaPrincipal_03.resources
 C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.vbproj.GenerateResource.cache
 C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\
 C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.pdb
 C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.genruntimeconfig.cache
 C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\ref\3 - Manipulando Textos.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\_3___Manipulando_Textos.Frm_Principal_03.resources
