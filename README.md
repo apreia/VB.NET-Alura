@@ -4,16 +4,24 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
 
 ## Estrutura do Repositório
 
-- **1 Primeiros passos com VB.NET**
-- **2 Dominando Orientação a Objetos**
-- **3 Entendendo exceções**
-- **4 Bibliotecas, documentação e Nuget**:
-- **5 Manipulando Strings, expressões regulares e a classe Object**:
-- **6 Arrays e Tipos Genéricos**:
-- **7 Collections**:
-- **8 Lambda Expressions, LINQ e Dataset**:
-- **9 Entrada e saída (I/O) com streams**:
-- **10 Trabalhando com banco de dados**:
+- **1 Primeiros passos com VB.NET**  
+  Neste módulo, você aprenderá os conceitos fundamentais para começar a programar em **VB.NET**. As principais abordagens incluem:  
+  - Como compilar e executar seu primeiro programa em VB.NET.  
+  - Configuração e uso do **Visual Studio**, a principal ferramenta de desenvolvimento para a linguagem.  
+  - Introdução às **variáveis**, operadores e controle de fluxo.  
+  - Compreensão de **estruturas condicionais** e **laços de repetição**.  
+  - Exploração dos **principais tipos de dados** disponíveis no VB.NET.  
+  - Criação de um programa desktop simples para consolidar os conceitos iniciais.
+
+- **2 Dominando Orientação a Objetos**  
+- **3 Entendendo exceções**  
+- **4 Bibliotecas, documentação e Nuget**  
+- **5 Manipulando Strings, expressões regulares e a classe Object**  
+- **6 Arrays e Tipos Genéricos**  
+- **7 Collections**  
+- **8 Lambda Expressions, LINQ e Dataset**  
+- **9 Entrada e saída (I/O) com streams**  
+- **10 Trabalhando com banco de dados**
 
 ## Objetivo
 
